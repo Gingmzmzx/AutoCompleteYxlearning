@@ -13,6 +13,9 @@
 - 随机选个之前没选过的选项，并保存到`answerList`（因为每次选项会打乱，所以正则提取出选项内容后再保存）
 - 重复该步骤，直到选出正确答案后清空`answerList`
 
+## 仓库信息
+- GreasyFork: [https://greasyfork.org/zh-CN/scripts/472944-autocompleteyxlearning](https://greasyfork.org/zh-CN/scripts/472944-autocompleteyxlearning)
+
 ## 鸣谢
 - 感谢[wjx_autofill](https://greasyfork.org/scripts/444243-wjx-autofill/code/wjx_autofill.user.js)提供左下角的菜单样式
 
