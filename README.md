@@ -1,6 +1,11 @@
 # AutoCompleteYxlearning
 自动完成专技人员专业课培训平台的答题学习（Tampermonkey）
 
+## 特性
+- 自动完成单选题
+- 无任何公众号验证码
+- 完全可用，逻辑合理
+
 ## 使用方法
 - 安装此脚本到篡改猴（Tampermonkey）
 - 前往视频学习页面（如图）：
