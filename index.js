@@ -2,7 +2,7 @@
 // @name         AutoCompleteYxlearning
 // @namespace    AutoCompleteYxlearning.Gingmzmzx.GitHub.io
 // @homepage     https://github.com/Gingmzmzx/AutoCompleteYxlearning/
-// @version      0.1
+// @version      0.1.1
 // @description  自动完成培训平台答题
 // @author       Gingmzmzx
 // @match        http*://*.yxlearning.com/learning/*
@@ -163,7 +163,7 @@
 
                         //     clearInterval(checkIntervalID);
                         // }
-                        if ( $(".pv-ask-success-tip").length ) {
+                        if ( $(".pv-ask-right-tip").length ) {
                             answerList = [];
                             clearInterval(checkIntervalID);
                         }
