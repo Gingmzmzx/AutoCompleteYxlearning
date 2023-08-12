@@ -20,6 +20,7 @@
 
 ## 仓库信息
 - GreasyFork: [https://greasyfork.org/zh-CN/scripts/472944-autocompleteyxlearning](https://greasyfork.org/zh-CN/scripts/472944-autocompleteyxlearning)
+- GitHub: [Gingmzmzx/AutoCompleteYxlearning](https://github.com/Gingmzmzx/AutoCompleteYxlearning/)
 
 ## 鸣谢
 - 感谢[wjx_autofill](https://greasyfork.org/scripts/444243-wjx-autofill/code/wjx_autofill.user.js)提供左下角的菜单样式
