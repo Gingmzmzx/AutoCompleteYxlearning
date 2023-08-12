@@ -5,6 +5,7 @@
 // @version      0.1.1
 // @description  自动完成培训平台答题
 // @author       Gingmzmzx
+// @license      Apache License 2.0
 // @match        http*://*.yxlearning.com/learning/*
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVQ4jW2SXUhTYRjHf+/ZaTrLbThbTlaEJWKRhEnMMLtIvHKI6EUUxmrdKURFk+iDpItkgtDHVXZiFxFEBMWoICiyAk0kwm7CEkzMrSEqfgzdTuftwjOZH+/NAw//5/c+f/6PYJPn8YdzgSpgr9n6BQzFoqGl9VqxbtCKlBcR4gLgXqeNg7wjET3xaCi1AeDxh53AS6AWwCKkUeOd0w8XLygFNp35lIXhRB4ffjs+z6ctTfFoaHYVUOQPqwJeAfUAhba0fuXIH0qcyyrwEXgDLEhJ+fSS2vLgm3twcDK/MRYNGYpJOZkZtloM40bNBCXOZYBWCcd8Aa0LuF99Rmtz2fQDbZV/3XW7Z1sAFNPB+YyVhj0z+k57SgV6fAHtsQBlIBK8B4wORIKnfQEtYc/519FcNt0GoBb5w4VARQZwdNdcBqqZtRZoBwxgv9lLbN+a9vV2t9tVAV5AzQC8+SkDyRKCCbM1BJQCSSDeHwkCBC0Ca7lj0asCq5EApA2BqkorYDeHiiSyFVgWCJdA1oKoQqKrVjGlAmMgkyDyAH5O25QKd1IBGoCHEuICcQ4oXpO84K4v8CihxKKhJIj3mQ1ejzoNKUFC50AkWFwd0Bak5DjwBPgKvACagcvZKdwGdIAvk9usfeP2lFj5sa8/crZOCEZ8Ae2UL6AdklI23/zknWh6Xpa7uo/HHwa4BVyDlSs8sW9KbyydUbdYpAKMAyOGhHdjjpJnP1y9w0+vdmUZAo8/rJiA65lUHDm6fnDHIi7zlL8n8vT4orVTIrvi0Q7WALJAlcAlCfUCWWBKpoC3QHcsGhrO1m8AZIFUCU4BSJiNR0P6Zrr/+n7jhpzfJhYAAAAASUVORK5CYII=
 // @grant        none
