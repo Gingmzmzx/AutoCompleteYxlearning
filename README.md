@@ -1,0 +1,2 @@
+# AutoCompleteYxlearning
+自动完成专技人员专业课培训平台的答题学习（Tampermonkey）
